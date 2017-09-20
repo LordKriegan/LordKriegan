@@ -1,0 +1,24 @@
+#header {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+	width: 100%;
+}
+
+#footer {
+	background-color #ffffff;
+	color: #4aaaa5;
+	text-align: center;
+}
+
+.paragraph {
+	padding: 10px 5px 10px 5px;
+	background-color: grey;
+	color: black;
+	width: 75%;
+	margin: 0 auto;
+}
+
+#maincontent {
+	background-color: blue;
+}
